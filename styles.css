@@ -129,13 +129,31 @@
     #back_1{
         width: 100%;
     }
+#block_otb{
+    font-family: 'Pervye_Book', sans-serif; 
+    color:#fff;
+    align-items: center;
+    justify-self: center;
+    display: block;
+    text-align: center;
+    padding: 30px;
+}
+#block_otb h1{
+font-size: 40px ;
+}
+#block_otb p{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
 
+}
     #block_2{
         color:#fff;
         align-items: center;
         justify-self: center;
         display: block;
         text-align: center;
+        padding: 5vh;
     }
     #block_2 h1{
         font-size: 40px;
@@ -411,6 +429,26 @@
     }
     
     
+    #block_otb{
+        color:#fff;
+        align-items: center;
+        justify-self: center;
+        display: block;
+        text-align: center;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding: 5vh;
+    }
+    #block_otb h1{
+    font-size: 7vw ;
+    }
+    #block_otb p{
+        padding-left: 20px;
+       padding-right: 20px;
+       font-size: 6vw;
+    }
+
+
 
     #block_2{
         color:#fff;
