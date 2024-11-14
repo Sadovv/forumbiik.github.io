@@ -49,6 +49,7 @@ h2{
     align-items: center;
     text-align: center;
     align-content: center;
+    text-decoration: none;
 }
 
 
@@ -57,6 +58,7 @@ h2{
     display: flex;
     align-items: center;
     text-align: center;
+    text-decoration: none;
 }
 
 #title img{
@@ -100,6 +102,7 @@ h2{
     font-size: 5vh;
     padding-left: 5vh;
     padding-right: 4vh;
+    text-decoration: none;
 }
 
 #download a{
